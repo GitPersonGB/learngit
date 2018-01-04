@@ -1,4 +1,5 @@
 Git is free software distributed under the GPL.
-Git file is modified.
 Git is a version conreol system.
 Git is free software.
+new a object.
+more objects.
